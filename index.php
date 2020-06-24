@@ -2,5 +2,5 @@
 
 print("This is index.php")
 
-print("bye"
+print("bye")
 ?>
